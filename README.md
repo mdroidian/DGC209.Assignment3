@@ -59,6 +59,7 @@
 - On Time Submission - 3
 
 # Notes
+## To Run
 backend/.env - add mongodb connection string
 
 backend - `nodemon server`
